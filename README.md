@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Naruto-09
+- 👀 I’m interested in ...
+--coding and making games 
+- 🌱 I’m currently learning ...
+--object Oriented Programming 
+- 💞️ I’m looking to collaborate on ...
+--as a software developer and DSA king
+- 📫 How to reach me ...
+
+<!---
+Naruto-09/Naruto-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
